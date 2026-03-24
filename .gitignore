@@ -1,0 +1,9 @@
+# UE5 generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+Media/
